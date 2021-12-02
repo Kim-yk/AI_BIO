@@ -1,0 +1,6 @@
+mongoimport
+mongo --version
+mongo
+use titanic
+mongoimport
+mongoimport

@@ -1,0 +1,11 @@
+
+C:\Users\user\anaconda3\envs\practice
+C:\Users\user\anaconda3\envs\hello_conda
+C:\Users\user\anaconda3\envs\N33
+C:\Users\user\anaconda3\envs\N332
+C:\Users\user\anaconda3\envs\miniflask
+C:\Users\user\anaconda3\envs\twit_app
+C:\Users\user\anaconda3\envs\web_scraping
+C:\Users\user\anaconda3\envs\webapp_practice
+C:\Users\user\anaconda3\envs\n5
+C:\Users\user\anaconda3\envs\my-rdkit-env
